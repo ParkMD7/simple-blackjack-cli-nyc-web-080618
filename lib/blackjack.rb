@@ -50,12 +50,9 @@ end
 def initial_round
   # code #initial_round here
   player_hand = deal_card + deal_card
-    2.times do |deal_card|
-      puts player_hand
-    end
-
   display_card_total(player_hand)
   return player_hand
+  
 end
 
 
