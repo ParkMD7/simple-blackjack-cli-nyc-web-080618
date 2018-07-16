@@ -51,7 +51,7 @@ def initial_round
   # code #initial_round here
   player_hand = deal_card + deal_card
   display_card_total(player_hand)
-  return card_total
+  return player_hand
   
 end
 
