@@ -91,7 +91,7 @@ def runner
   # code runner here
   
   welcome
-  card_total += inital round
+  card_total = inital round
   
   while card_total < 21
     cards_total = hit?(card_total)
