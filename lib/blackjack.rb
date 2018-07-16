@@ -55,7 +55,7 @@ def initial_round
       puts player_hand
     end
   display_card_total(player_hand)
-  
+  return player_hand
 end
 
 
