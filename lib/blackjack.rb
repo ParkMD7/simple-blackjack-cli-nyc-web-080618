@@ -60,7 +60,9 @@ end
 def hit?(card_total)
   # code hit? here
   prompt_user
-  answer = 
+  answer = get_user_input
+  
+  
   
 end
 
@@ -68,6 +70,8 @@ end
 
 def invalid_command
   # code invalid_command here
+  puts 
+  
 end
 
 
