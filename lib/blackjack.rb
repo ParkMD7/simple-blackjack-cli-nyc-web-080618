@@ -94,7 +94,8 @@ def runner
   welcome
   card_total += inital round
   
-  while num_of_hotdogs_eaten < 7
+  while card_total < 21
+  
 
 end
     
