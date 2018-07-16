@@ -59,6 +59,8 @@ end
 
 def hit?(card_total)
   # code hit? here
+  
+  
 end
 
 
