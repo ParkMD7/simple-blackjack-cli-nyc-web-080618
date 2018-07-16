@@ -96,6 +96,7 @@ def runner
   
   while card_total < 21
     cards_total = hit?(cards_total)
+    display_card_total(cards_total)
 
 end
     
