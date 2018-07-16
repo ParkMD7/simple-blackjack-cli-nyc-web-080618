@@ -50,9 +50,11 @@ end
 def initial_round
   # code #initial_round here
   cards = 0
+  player_hand = deal_card + deal_card
     2.times do |deal_card|
-      puts 
+      puts player_hand
     end
+  
   
 end
 
