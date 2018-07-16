@@ -54,7 +54,7 @@ def initial_round
     2.times do |deal_card|
       puts player_hand
     end
-  
+  display_card_total(player_hand)
   
 end
 
