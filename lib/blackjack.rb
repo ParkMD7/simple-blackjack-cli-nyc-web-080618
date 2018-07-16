@@ -91,6 +91,8 @@ def runner
   # code runner here
   card_total = 0
   
+  welcome
+  inital round
 
 end
     
