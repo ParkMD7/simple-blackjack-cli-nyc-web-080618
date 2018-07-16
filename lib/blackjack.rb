@@ -14,8 +14,9 @@ end
 
 
 
-def display_card_total
+def display_card_total(number)
   # code #display_card_total here
+  
   
 end
 
