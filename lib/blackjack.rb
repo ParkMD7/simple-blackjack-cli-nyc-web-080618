@@ -92,7 +92,7 @@ def runner
   card_total = 0
   
   welcome
-  inital round
+  card_total = inital round
 
 end
     
