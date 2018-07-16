@@ -47,17 +47,17 @@ end
 
 
 
-def initial_round
+def initial_round(card_total)
   # code #initial_round here
-  player_hand = deal_card + deal_card
-  display_card_total(player_hand)
-  return player_hand
+  card_total = deal_card + deal_card
+  display_card_total
+  return card_total
   
 end
 
 
 
-def hit?
+def hit?(card_total)
   # code hit? here
 end
 
