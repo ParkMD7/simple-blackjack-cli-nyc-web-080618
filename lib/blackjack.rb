@@ -17,6 +17,7 @@ end
 def display_card_total(number)
   # code #display_card_total here
   
+  puts 
   
 end
 
