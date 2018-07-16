@@ -50,7 +50,7 @@ end
 def initial_round
   # code #initial_round here
   2.times do deal_card
-    puts 
+    puts deal_card.to.numb
   
 end
 
