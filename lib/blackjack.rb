@@ -62,7 +62,7 @@ def hit?(card_total)
   prompt_user
   answer = get_user_input
   
-  
+  if 
   
 end
 
